@@ -10,7 +10,7 @@
 
 # This value will then be formatted so that the answer is printed out in the format of: (b, n, k) = combinations
 
-# Jason Rudinsky - U23254229
+# Jason Rudinsky
 
 # Run the program in the terminal. Command line should be like so: "python RobotStack.py input.txt"
 
